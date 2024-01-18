@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lee Bussy</h1>
-<h3 align="center">A lifelong nerd, tinkerer, and maker</h3>
+<h3 align="center">I'm a lifelong nerd, tinkerer, and maker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbussy&label=Profile%20views&color=0e75b6&style=flat" alt="lbussy" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lbussy](https://github.com/lbussy)
 
-- 💬 Ask me about **controls to help brew beer and make wine.**
+- 💬 Ask me about controls to help brew beer and make wine!
 
-- 📫 How to reach me **Lee@Bussy.org**
+- 📫 How to reach me: **Lee@Bussy.org**
 
 - ⚡ Fun fact **My wife calls me a serial hobbyist.**
 
