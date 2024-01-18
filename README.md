@@ -9,9 +9,9 @@
 
 - 💬 Ask me about controls to help brew beer and make wine!
 
-- 📫 How to reach me: **Lee@Bussy.org**
+- 📫 How to reach me: Open an issue on any of my repositories.
 
-- ⚡ Fun fact **My wife calls me a serial hobbyist.**
+- ⚡ Fun fact: My wife calls me a serial hobbyist.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
